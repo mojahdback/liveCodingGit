@@ -1,4 +1,9 @@
-a{
+nav > a , div{
     color:red;
+    margin: 60vh 10vw 10vh 0vw ;
+    background-color: black;
+    width: 200px;
+    height: 100px;
 
 }
+
